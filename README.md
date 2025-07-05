@@ -1,12 +1,12 @@
 <!-- 动态电路板背景标题 -->
 <div align="center">
   <h1>
-    <img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="50">
-    嵌入式系统魔法师 
-    <img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="50">
+    嵌入式系统炼金师
   </h1>
   <p>将代码转化为物理世界的奇迹 ✨</p>
 </div>
+
+---
 
 <!-- 自动化技术栈徽章墙 -->
 <div align="center">
