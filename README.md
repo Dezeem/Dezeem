@@ -6,8 +6,6 @@
   <p>将代码转化为物理世界的奇迹 ✨</p>
 </div>
 
----
-
 <!-- 自动化技术栈徽章墙 -->
 <div align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
@@ -15,7 +13,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
-
+<br>
 <!-- 横向排列的统计卡片（浅色背景） -->
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; background-color: #f5f5f5; padding: 20px; border-radius: 10px;">
 
