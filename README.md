@@ -1,25 +1,56 @@
-<!-- 动态电路板背景标题 -->
 <div align="center">
-  <h1>
-    嵌入式软件工程师
-  </h1>
+
+# 👨‍💻 Embedded Software Engineer
+
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&center=true&vCenter=true&width=600&lines=Sing+Dance+Rap+Basketball;Linux+Networking;Debugging+Since+Boot" />
+
 </div>
 
-<!-- 自动化技术栈徽章墙 -->
-<div align="center">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</div>
-<br>
-<!-- 横向排列的统计卡片（浅色背景） -->
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; background-color: #f5f5f5; padding: 20px; border-radius: 10px;">
+<!-- ================= TECH STACK ================= -->
 
-  <!-- 基础统计卡片（浅色主题） -->
-  <div>
-    <a href="https://github.com/Dezeem">
-      <img src="https://github-readme-stats.vercel.app/api?username=Dezeem&show_icons=true&theme=default&bg_color=ffffff&title_color=0366d6&icon_color=0366d6&text_color=24292e" alt="基础统计" style="border-radius: 10px;"/>
-    </a>
-  </div>
+<div align="center">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Embedded-0A0A0A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Networking-1F6FEB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Netlink-000000?style=for-the-badge"/>
+</div>
+
+---
+
+## 🧠 About
+
+```c
+while(alive) {
+    write_code();
+    debug();
+    reboot();
+}
+````
+
+---
+
+## ☕ Debugging Truth
+
+```
+  Step 1: It's a hardware issue
+  Step 2: It's a kernel issue
+  Step 3: It's a race condition
+  Step 4: Oh... it's my bug
+```
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+<div align="center">
+  ⚡ Powered by coffee and segmentation faults ⚡
 </div>
