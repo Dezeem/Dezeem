@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👨‍💻 Embedded Software Engineer
+# Linux Software Engineer
 
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&center=true&vCenter=true&width=600&lines=Sing+Dance+Rap+Basketball;Linux+Networking;Debugging+Since+Boot" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&center=true&vCenter=true&width=600&lines=Sing+Dance+Rap+Basketball;Linux+Networking;" />
 
 </div>
 
@@ -19,7 +19,7 @@
 
 ---
 
-## 🧠 About
+## 🧠 About me
 
 ```c
 while(alive) {
