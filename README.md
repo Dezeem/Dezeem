@@ -2,8 +2,6 @@
 
 # Linux Software Engineer
 
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&center=true&vCenter=true&width=600&lines=Sing+Dance+Rap+Basketball;Linux+Networking;" />
-
 </div>
 
 <!-- ================= TECH STACK ================= -->
@@ -17,8 +15,6 @@
   <img src="https://img.shields.io/badge/Netlink-000000?style=for-the-badge"/>
 </div>
 
----
-
 ## 🧠 About me
 
 ```c
@@ -29,8 +25,6 @@ while(alive) {
 }
 ````
 
----
-
 ## ☕ Debugging Truth
 
 ```
@@ -39,7 +33,6 @@ while(alive) {
   Step 3: It's a race condition
   Step 4: Oh... it's my bug
 ```
----
 
 ## 🐍 Contribution Snake
 
@@ -48,8 +41,6 @@ while(alive) {
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 
 </div>
-
----
 
 <div align="center">
   ⚡ Powered by coffee and segmentation faults ⚡
